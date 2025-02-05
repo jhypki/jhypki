@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Jakub! 👋
 
-<!--
-**jhypki/jhypki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate backend web developer specializing in building scalable and robust APIs and web services using TypeScript. I love solving complex problems and continuously exploring new technologies to enhance performance and maintainability.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Building a microservice based application for analysing trends and opinions in social media using NLP
+- 🌱 **Learning:** Data analysis and microservice patterns
+- 📫 **How to Reach Me:** [kubahypki7@gmail.com](kubahypki7@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,bun,nodejs,postgres,cs,express,react,next,docker,git,postman,dotnet,redis,jest)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhypki&layout=compact)
