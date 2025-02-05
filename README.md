@@ -10,4 +10,4 @@ I'm a passionate backend web developer specializing in building scalable and rob
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,bun,nodejs,postgres,cs,express,react,next,docker,git,postman,dotnet,redis,jest)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhypki&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhypki&layout=compact&theme=dark)
